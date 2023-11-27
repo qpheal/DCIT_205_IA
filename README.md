@@ -20,7 +20,26 @@ It contains a form for easy application of short courses offered by the departme
 
 ## About Me
 
-I'm Rapheal Adjei , 11293905
+I'm Rapheal Adjei. My ID is 11293905.
+
+## Screenshots of web pages
+
+![Home Page](<Screenshots/Screenshot 2023-11-27 144512.png>)
+![Home PAge II](<Screenshots/Screenshot 2023-11-27 144610.png>)
+![About web page](<Screenshots/Screenshot 2023-11-27 144948.png>)
+![Faculty](<Screenshots/Screenshot 2023-11-27 145023.png>)
+![Programme page1](<Screenshots/Screenshot 2023-11-27 145924.png>)
+![Programme Page](<Screenshots/Screenshot 2023-11-27 145953.png>)
+![EventsI](<Screenshots/Screenshot 2023-11-27 151343.png>)
+![EventsII](<Screenshots/Screenshot 2023-11-27 151413.png>)
+![ContactI](<Screenshots/Screenshot 2023-11-27 151458.png>)
+![ContactII](<Screenshots/Screenshot 2023-11-27 152001.png>)
+![Research page](<Screenshots/Screenshot 2023-11-27 152049.png>)
+![ResearchII](<Screenshots/Screenshot 2023-11-27 152111.png>)
+![Student Resource](<Screenshots/Screenshot 2023-11-27 152142.png>)
+![Alumni PageI](<Screenshots/Screenshot 2023-11-27 152221.png>)
+![Alumni II](<Screenshots/Screenshot 2023-11-27 153120.png>)
+![Registration Page](<Screenshots/Screenshot 2023-11-27 152304.png>)
 
 ## What I learnt from the Project
 
